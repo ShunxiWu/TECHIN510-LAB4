@@ -7,6 +7,7 @@ This Streamlit application provides users with a convenient way to check the cur
 To run this application, ensure you have Python installed on your system. You will also need to install the necessary dependencies. You can do this by running:
 
 pip install streamlit
+
 pip install zoneinfo
 
 ## Usage
